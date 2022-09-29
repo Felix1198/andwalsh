@@ -38,7 +38,7 @@ define( 'DB_CHARSET', 'utf8' );
 define( 'DB_COLLATE', '' );
 
 # this will return the following
-#define('DB_DRIVER', 'pgsql'); // 'pgsql' or 'mysql' are supported for now
+define('DB_DRIVER', 'pgsql'); // 'pgsql' or 'mysql' are supported for now
 
 /**#@+
  * Authentication unique keys and salts.
