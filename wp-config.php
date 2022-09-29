@@ -38,16 +38,16 @@
 // define( 'DB_COLLATE', '' );
 
 //localhost
-define( 'DB_NAME', 'andwalsh' );
+define( 'DB_NAME', 'f4zrn5nmxovb0mg2' );
 
 /** Database username */
-define( 'DB_USER', 'admin' );
+define( 'DB_USER', 'g5ssvfgdkkbtbqxp' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'Admin@123' );
+define( 'DB_PASSWORD', 'gedeepwpbmcw3dlt' );
 
 /** Database hostname */
-define( 'DB_HOST', 'localhost' );
+define( 'DB_HOST', 'cwe1u6tjijexv3r6.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
