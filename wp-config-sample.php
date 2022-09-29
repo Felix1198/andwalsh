@@ -37,6 +37,9 @@ define( 'DB_CHARSET', 'utf8' );
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
+# this will return the following
+define('DB_DRIVER', 'pgsql'); // 'pgsql' or 'mysql' are supported for now
+
 /**#@+
  * Authentication unique keys and salts.
  *
