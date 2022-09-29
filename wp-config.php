@@ -38,16 +38,16 @@
 // define( 'DB_COLLATE', '' );
 
 //localhost
-define( 'DB_NAME', 'f4zrn5nmxovb0mg2' );
+define( 'DB_NAME', 'heroku_8cc4197dd2f5a19' );
 
 /** Database username */
-define( 'DB_USER', 'g5ssvfgdkkbtbqxp' );
+define( 'DB_USER', 'b0c72f386fa2ea' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'gedeepwpbmcw3dlt' );
+define( 'DB_PASSWORD', 'a852b973' );
 
 /** Database hostname */
-define( 'DB_HOST', 'cwe1u6tjijexv3r6.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
+define( 'DB_HOST', 'us-cdbr-east-06.cleardb.net' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
