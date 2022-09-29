@@ -20,16 +20,16 @@
 
 // ** Database settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-define( 'DB_NAME', 'd7gi4t9bknk78v' );
+define( 'DB_NAME', 'f4zrn5nmxovb0mg2' );
 
 /** Database username */
-define( 'DB_USER', 'fxomnfigaycrjp' );
+define( 'DB_USER', 'g5ssvfgdkkbtbqxp' );
 
 /** Database password */
-define( 'DB_PASSWORD', '5b541055bd8c05e9b0c9e4b38ea4bba72e860a79a94ba996aed0d142a026c976' );
+define( 'DB_PASSWORD', 'gedeepwpbmcw3dlt' );
 
 /** Database hostname */
-define( 'DB_HOST', 'ec2-44-207-253-50.compute-1.amazonaws.com:5432' );
+define( 'DB_HOST', 'cwe1u6tjijexv3r6.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
 
 /** Database charset to use in creating database tables. */
 define( 'DB_CHARSET', 'utf8' );
@@ -37,8 +37,6 @@ define( 'DB_CHARSET', 'utf8' );
 /** The database collate type. Don't change this if in doubt. */
 define( 'DB_COLLATE', '' );
 
-# this will return the following
-define('DB_DRIVER', 'pgsql'); // 'pgsql' or 'mysql' are supported for now
 
 /**#@+
  * Authentication unique keys and salts.
