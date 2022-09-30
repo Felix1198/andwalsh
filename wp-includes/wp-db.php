@@ -36,7 +36,6 @@ define( 'ARRAY_A', 'ARRAY_A' );
  */
 define( 'ARRAY_N', 'ARRAY_N' );
 
-
 /**
  * WordPress database access abstraction class.
  *
