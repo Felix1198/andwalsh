@@ -38,13 +38,13 @@
 // define( 'DB_COLLATE', '' );
 
 //localhost
-define( 'DB_NAME', 'f4zrn5nmxovb0mg2' );
+define( 'DB_NAME', 'y03wq7vtylzilq6z' );
 
 /** Database username */
-define( 'DB_USER', 'g5ssvfgdkkbtbqxp' );
+define( 'DB_USER', 'ezlqjjucmwxzh7gd' );
 
 /** Database password */
-define( 'DB_PASSWORD', 'gedeepwpbmcw3dlt' );
+define( 'DB_PASSWORD', 'vqg3z7y2tr74b1ob' );
 
 /** Database hostname */
 define( 'DB_HOST', 'cwe1u6tjijexv3r6.cbetxkdyhwsb.us-east-1.rds.amazonaws.com' );
